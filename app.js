@@ -11,3 +11,7 @@ export default app
 function unusedFunction() {
 	return null;
 }
+
+function anotherUnusedFunction() {
+	console.log("This function is not used");
+}
