@@ -7,3 +7,7 @@ function app(){
 
 }
 export default app
+
+function unusedFunction() {
+	return null;
+}
