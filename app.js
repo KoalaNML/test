@@ -15,3 +15,7 @@ function unusedFunction() {
 function anotherUnusedFunction() {
 	console.log("This function is not used");
 }
+
+function yetAnotherUnusedFunction() {
+	return 67;
+}
